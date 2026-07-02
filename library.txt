@@ -1,0 +1,39 @@
+ Animals
+cat - 2d6+1, +7
+dog - 3d8+2, +5
+wolf - 2d8+2, +4
+bear - 4d10+4, +6
+lion - 4d8+3, +6
+rat - 1d4-1, +2
+
+ Magic creatures
+skeleton - 1d4, +2
+dragon - 10d12, +11
+wizard - 1d4, +17
+goblin - 1d6+1, +3
+troll - 6d10+4, +5
+unicorn - 4d8+2, +8
+gargoyle - 4d8+2, +4
+
+ Undead
+zombie - 2d6+2, +1
+ghoul - 3d6+1, +3
+vampire - 6d8+4, +9
+lich - 8d8, +14
+wraith - 5d8+2, +6
+
+ Humanoids
+peasant - 1d4, +1
+bandit - 1d8+1, +3
+knight - 3d10+3, +5
+assassin - 4d6+2, +8
+barbarian - 5d12+4, +7
+
+ Mythical beasts
+griffin - 5d10+3, +7
+manticore - 6d8+4, +8
+chimera - 7d10+5, +9
+hydra - 8d12+6, +10
+
+
+
