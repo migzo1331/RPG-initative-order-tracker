@@ -6,34 +6,240 @@ bear - 4d10+4, +6
 lion - 4d8+3, +6
 rat - 1d4-1, +2
 
- Magic creatures
-skeleton - 1d4, +2
-dragon - 10d12, +11
-wizard - 1d4, +17
-goblin - 1d6+1, +3
-troll - 6d10+4, +5
-unicorn - 4d8+2, +8
-gargoyle - 4d8+2, +4
-
- Undead
-zombie - 2d6+2, +1
-ghoul - 3d6+1, +3
-vampire - 6d8+4, +9
-lich - 8d8, +14
-wraith - 5d8+2, +6
-
- Humanoids
-peasant - 1d4, +1
-bandit - 1d8+1, +3
-knight - 3d10+3, +5
-assassin - 4d6+2, +8
-barbarian - 5d12+4, +7
-
- Mythical beasts
-griffin - 5d10+3, +7
-manticore - 6d8+4, +8
-chimera - 7d10+5, +9
-hydra - 8d12+6, +10
-
-
-
+ D&D's 5e system refrence document (SRD)
+Aboleth - 18d10+36, -1
+Angel (Deva) - 16d8+64, +4
+Angel (Planetar) - 16d10+112, +5
+Angel (Solar) - 18d10+144, +6
+Animated Armor - 6d8+6, +0
+Flying Sword - 5d6, +2
+Rug of Smothering - 6d10, +2
+Ankheg - 6d10+6, +0
+Azer - 6d8+12, +1
+Basilisk - 8d8+16, -1
+Behir - 16d12+64, +3
+Bugbear - 5d8+5, +2
+Bulette - 9d10+45, +0
+Centaur - 6d10+12, +2
+Chimera - 12d10+48, +0
+Chuul - 11d10+33, +0
+Cloaker - 12d10+12, +2
+Cockatrice - 6d6+6, +1
+Couatl - 13d8+39, +5
+Darkmantle - 5d6+5, +1
+Demon (Balor) - 21d12+126, +2
+Demon (Dretch) - 4d6+4, +0
+Demon (Glabrezu) - 15d10+75, +2
+Demon (Hezrou) - 13d10+65, +3
+Demon (Marilith) - 18d10+90, +5
+Demon (Nalfeshnee) - 16d10+96, +0
+Demon (Quasit) - 3d4, +3
+Demon (Vrock) - 11d10+44, +2
+Devil (Barbed Devil) - 13d8+52, +2
+Devil (Bearded Devil) - 8d8+16, +2
+Devil (Bone Devil) - 15d10+60, +3
+Devil (Chain Devil) - 10d8+40, +2
+Devil (Erinyes) - 18d8+72, +3
+Devil (Horned Devil) - 17d10+85, +3
+Devil (Ice Devil) - 19d10+76, +2
+Devil (Imp) - 3d4+3, +3
+Devil (Lemure) - 3d8, -3
+Devil (Pit Fiend) - 24d10+168, +2
+Dinosaur (Plesiosaurus) - 8d10+24, +2
+Dinosaur (Triceratops) - 10d12+30, -1
+Dinosaur (Tyrannosaurus Rex) - 13d12+52, +0
+Doppelganger - 8d8+16, +4
+Ancient Black Dragon - 21d20+147, +2
+Adult Black Dragon - 17d12+85, +2
+Young Black Dragon - 15d10+45, +2
+Black Dragon Wyrmling - 6d8+6, +2
+Ancient Blue Dragon - 26d20+208, +0
+Adult Blue Dragon - 18d12+108, +0
+Young Blue Dragon - 16d10+64, +0
+Blue Dragon Wyrmling - 8d8+16, +0
+Ancient Green Dragon - 22d20+154, +1
+Adult Green Dragon - 18d12+90, +1
+Young Green Dragon - 16d10+48, +1
+Green Dragon Wyrmling - 7d8+7, +1
+Ancient Red Dragon - 28d20+252, +0
+Adult Red Dragon - 19d12+133, +0
+Young Red Dragon - 17d10+85, +0
+Red Dragon Wyrmling - 10d8+30, +0
+Ancient White Dragon - 18d20+144, +0
+Adult White Dragon - 16d12+96, +0
+Young White Dragon - 14d10+56, +0
+White Dragon Wyrmling - 5d8+10, +0
+Ancient Brass Dragon - 17d20+119, +0
+Adult Brass Dragon - 15d12+75, +0
+Young Brass Dragon - 13d10+39, +0
+Brass Dragon Wyrmling - 3d8+3, +0
+Ancient Bronze Dragon - 24d20+192, +0
+Adult Bronze Dragon - 17d12+102, +0
+Young Bronze Dragon - 15d10+60, +0
+Bronze Dragon Wyrmling - 5d8+10, +0
+Ancient Copper Dragon - 20d20+140, +1
+Adult Copper Dragon - 16d12+80, +1
+Young Copper Dragon - 14d10+42, +1
+Copper Dragon Wyrmling - 4d8+4, +1
+Ancient Gold Dragon - 28d20+252, +2
+Adult Gold Dragon - 19d12+133, +2
+Young Gold Dragon - 17d10+85, +2
+Gold Dragon Wyrmling - 8d8+24, +2
+Ancient Silver Dragon - 25d20+225, +0
+Adult Silver Dragon - 18d12+126, +0
+Young Silver Dragon - 16d10+80, +0
+Silver Dragon Wyrmling - 6d8+18, +0
+Dragon Turtle - 22d20+110, +0
+Drider - 13d10+52, +3
+Dryad - 5d8, +1
+Duergar - 4d8+8, +0
+Air Elemental - 12d10+24, +5
+Earth Elemental - 12d10+60, -1
+Fire Elemental - 12d10+36, +3
+Water Elemental - 12d10+48, +2
+Elf, Drow - 3d8, +2
+Ettercap - 8d8+8, +2
+Ettin - 10d10+30, -1
+Fungi (Shrieker) - 3d8, -5
+Fungi (Violet Fungus) - 4d8, -5
+Gargoyle - 7d8+21, +0
+Genie (Djinni) - 14d10+84, +2
+Genie (Efreeti) - 16d10+112, +1
+Ghost - 10d8, +1
+Ghoul (Ghast) - 8d8, +3
+Ghoul - 5d8, +2
+Cloud Giant - 16d12+96, +0
+Fire Giant - 13d12+78, -1
+Frost Giant - 12d12+60, -1
+Hill Giant - 10d12+40, -1
+Stone Giant - 11d12+55, +2
+Storm Giant - 20d12+100, +2
+Gibbering Mouther - 9d8+27, -1
+Gnoll - 5d8, +1
+Gnome, Deep (Svirfneblin) - 3d6+6, +2
+Goblin - 2d6, +2
+Golem (Clay Golem) - 14d10+56, -1
+Golem (Flesh Golem) - 11d8+44, -1
+Golem (Iron Golem) - 20d10+100, -1
+Golem (Stone Golem) - 17d10+85, -1
+Gorgon - 12d10+48, +0
+Grick - 6d8, +2
+Griffon - 7d10+21, +2
+Grimlock - 2d8+2, +1
+Hag (Green Hag) - 11d8+33, +1
+Hag (Night Hag) - 15d8+45, +2
+Hag (Sea Hag) - 7d8+21, +1
+Half-Red Dragon Veteran - 10d8+20, +1
+Harpy - 7d8+7, +1
+Hell Hound - 7d8+14, +1
+Hippogriff - 3d10+3, +1
+Hobgoblin - 2d8+2, +1
+Homunculus - 2d4, +2
+Hydra - 15d12+75, +1
+Invisible Stalker - 16d8+32, +4
+Kobold - 2d6-2, +2
+Kraken - 27d20+189, +0
+Lamia - 13d10+26, +1
+Lich - 18d8+54, +3
+Lizardfolk - 4d8+4, +0
+Lycanthrope (Werebear) - 18d8+54, +0
+Lycanthrope (Wereboar) - 12d8+24, +0
+Lycanthrope (Wererat) - 6d8+6, +2
+Lycanthrope (Weretiger) - 16d8+48, +2
+Lycanthrope (Werewolf) - 9d8+18, +1
+Magmin - 2d6+2, +2
+Manticore - 8d10+24, +3
+Medusa - 17d8+51, +2
+Mephit (Dust Mephit) - 5d6, +2
+Mephit (Ice Mephit) - 6d6, +1
+Mephit (Magma Mephit) - 5d6+5, +1
+Mephit (Steam Mephit) - 6d6, +0
+Merfolk - 2d8+2, +1
+Merrow - 6d10+12, +0
+Mimic - 9d8+18, +1
+Minotaur - 9d10+27, +0
+Mummy - 9d8+18, -1
+Mummy Lord - 13d8+39, +0
+Naga (Guardian Naga) - 15d10+45, +3
+Naga (Spirit Naga) - 10d10+20, +4
+Nightmare - 8d10+24, +2
+Ogre - 7d10+21, -1
+Oni - 13d10+39, +0
+Ooze (Black Pudding) - 10d10+30, -3
+Ooze (Gelatinous Cube) - 8d10+40, -4
+Ooze (Gray Ooze) - 3d8+9, -2
+Ooze (Ochre Jelly) - 6d10+12, -2
+Orc - 2d8+6, +1
+Otyugh - 12d10+48, +0
+Owlbear - 7d10+21, +1
+Pegasus - 7d10+21, +2
+Pseudodragon - 2d4+2, +2
+Purple Worm - 15d20+90, -2
+Rakshasa - 13d8+52, +3
+Remorhaz - 17d12+85, +1
+Roc - 16d20+80, +0
+Roper - 11d10+33, -1
+Rust Monster - 5d8+5, +1
+Sahuagin - 4d8+4, +0
+Salamander - 12d10+24, +2
+Satyr - 7d8, +3
+Shadow - 3d8+3, +2
+Shambling Mound - 16d10+48, -1
+Shield Guardian - 15d10+60, -1
+Skeleton - 2d8+4, +2
+Skeleton (Minotaur) - 9d10+18, +0
+Skeleton (Warhorse) - 3d10+6, +1
+Specter - 5d8, +2
+Sphinx (Androsphinx) - 19d10+95, +0
+Sphinx (Gynosphinx) - 16d10+48, +2
+Sprite - 1d4, +4
+Stirge - 1d4, +3
+Succubus/Incubus - 12d8+12, +3
+Tarrasque - 33d20+330, +0
+Treant - 12d12+60, -1
+Troll - 8d10+40, +1
+Unicorn - 9d10+18, +2
+Vampire - 17d8+68, +4
+Vampire Spawn - 11d8+33, +3
+Wight - 6d8+18, +2
+Will-o'-Wisp - 9d4, +9
+Wraith - 9d8+27, +3
+Wyvern - 13d10+39, +0
+Xorn - 7d8+42, +0
+Zombie - 3d8+9, -2
+Zombie (Ogre) - 9d10+36, -2
+Ape - 3d8+6, +2
+Awakened Shrub - 3d6, -1
+Awakened Tree - 7d12+14, -2
+Axe Beak - 3d10+3, +1
+Baboon - 1d6, +2
+Badger - 1d4+1, +0
+Bat - 1d4-1, +2
+Black Bear - 3d8+6, +0
+Blink Dog - 4d8+4, +3
+Blood Hawk - 2d6, +2
+Boar - 2d8+2, +0
+Brown Bear - 4d10+12, +0
+Camel - 2d10+4, -1
+Cat - 1d4, +2
+Constrictor Snake - 2d10+2, +2
+Crab - 1d4, +0
+Crocodile - 3d10+3, +0
+Death Dog - 6d8+12, +2
+Deer - 1d8, +3
+Dire Wolf - 5d10+10, +2
+Draft Horse - 3d10+3, +0
+Eagle - 1d6, +2
+Elephant - 8d12+24, -1
+Elk - 2d10+2, +0
+Flying Snake - 2d4, +4
+Frog - 1d4-1, +1
+Giant Ape - 15d12+60, +2
+Giant Badger - 2d8+4, +0
+Giant Bat - 4d10, +3
+Giant Boar - 5d10+15, +0
+Giant Centipede - 1d6+1, +2
+Giant Constrictor Snake - 8d12+8, +2
+Giant Crab - 3d8, +2
+Giant Crocodile - 9d12+27, -1
+Giant Eagle - 4d10+4, +3
